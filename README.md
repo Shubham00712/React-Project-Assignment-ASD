@@ -1,3 +1,37 @@
+# React-Project-Assignment
+This project is a **React-based application** that includes interactive components and state management features as per the assignment requirements.
+
+## Key features:
+1. **Counter Component**:-
+    
+  -> Users can increment, decrement, and reset the counter.
+  
+  -> The background color changes dynamically based on the count value.
+  
+  -> Implemented using the useState hook for state management.
+
+2. **User Form Data**:-
+   
+  -> Users can input and submit form data, which is saved in local storage.
+  
+  -> Existing user data can be modified without creating a new user ID.
+  
+  -> Redux is used for efficient state management of user data.
+  
+  -> Users receive an alert before closing the browser if there are unsaved changes.
+
+3. **Rich TextEditor**:-
+   
+  -> Displays previously saved data or an empty values in editor if no data exists.
+  
+  -> Users can format and edit text within the editor.
+  
+  -> Implemented using Draft.js for rich text editing capabilities.
+
+This project demonstrates the use of **React hooks, Redux for state management, and Draft.js for text formatting**, ensuring a smooth and interactive user experience.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
